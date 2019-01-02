@@ -1,2 +1,6 @@
-second projet thp
+Troisieme projet thp, mis a jour du deuxieme
 http://deoladed.free.fr/
+
+Bettermotherfuckingwebsite
+Ajout d'un pop up avec redirection vers une video
+Ajouter d'un bouton pour activer le mode psychedelique =)
